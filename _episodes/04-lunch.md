@@ -1,4 +1,4 @@
 ---
-title: "Lunch break"
+title: "Coffee break"
 teaching: 30
 ---
